@@ -1,6 +1,6 @@
 {
   "name": "azure-functions-decorator",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Generate azure function's configuration files (function.config) with typescript decorators",
   "main": "lib/index.js",
   "bin": {

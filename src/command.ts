@@ -10,7 +10,7 @@ import { declarations, FunctionDeclaration } from './http-function';
 const program = new Command();
 
 program
-  .version('0.1.0')
+  .version('0.1.1')
   .option('-S, --source [path]', 'glob decorated source files')
   .option('-O, --out [path]', 'output directory')
   .parse(process.argv);
